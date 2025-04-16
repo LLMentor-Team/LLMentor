@@ -1,13 +1,13 @@
 import streamlit as st
 
-st.set_page_config(page_title="UniCoach", layout="wide")
+st.set_page_config(page_title="LLMentor", layout="wide")
 
-st.sidebar.title("UniCoach")
+st.sidebar.title("LLMentor")
 pagina = st.sidebar.radio("Vai a:", ["Home", "Carica File", "Genera Quiz", "Riassunto/Spiegazione", "Info Progetto"])
 
 if pagina == "Home":
-    st.title("Benvenuto su UniCoach!")
-    st.write("La tua AI Tutor per supportare lo studio universitario.")
+    st.title("👩‍🏫 LLMentor – AI Tutor Universitario")
+    st.write("Benvenuto nella piattaforma intelligente per supportare lo studio universitario.")
 
 elif pagina == "Carica File":
     st.title("Carica i tuoi materiali di studio")
