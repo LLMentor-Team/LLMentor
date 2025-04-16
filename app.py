@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="LLMentor", layout="wide")
 
-st.sidebar.title("UniCoach")
+st.sidebar.title("LLMentor")
 pagina = st.sidebar.radio("Vai a:", ["Home", "Carica File", "Genera Quiz", "Riassunto/Spiegazione", "Info Progetto"])
 
 if pagina == "Home":
