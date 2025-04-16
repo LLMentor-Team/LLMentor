@@ -25,7 +25,7 @@ elif pagina == "Riassunto/Spiegazione":
 elif pagina == "Info Progetto":
     st.title("Info Progetto")
     st.markdown("""
-    **UniCoach** è una Web App creata durante il Bootcamp AI.  
+    **LLMentor** è una Web App creata durante il Bootcamp AI di Edgemony.  
     Permette di caricare materiali, generare quiz e ricevere tutoring automatico.  
     Sviluppato dal team LLMentor.
     """)
