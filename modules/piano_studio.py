@@ -1,8 +1,12 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 import plotly.express as px
+from reportlab.lib.pagesizes import A4
+from reportlab.pdfgen import canvas
+import tempfile
+import os
 
 def genera_piano_studio(df, settimane):
     df.columns = df.columns.str.strip().str.lower()
@@ -63,3 +67,61 @@ def genera_piano_studio(df, settimane):
     fig.update_yaxes(autorange="reversed")
     fig.update_layout(height=400)
     st.plotly_chart(fig, use_container_width=True)
+
+
+def esporta_piano_pdf(df, settimane, nome_file=""):
+    df.columns = df.columns.str.strip().str.lower()
+    argomenti = df["argomento"].dropna().tolist()
+    totale = len(argomenti)
+
+    if totale == 0:
+        return None
+
+    per_settimana = totale // settimane
+    distribuzione = [per_settimana] * settimane
+    for i in range(totale % settimane):
+        distribuzione[i] += 1
+
+    temp_path = tempfile.mktemp(suffix=".pdf")
+    c = canvas.Canvas(temp_path, pagesize=A4)
+    width, height = A4
+    margin = 50
+
+    # --- COVER PAGE ---
+    c.setFont("Helvetica-Bold", 20)
+    c.drawCentredString(width / 2, height - 100, "📘 Piano di Studio Personalizzato")
+
+    c.setFont("Helvetica", 14)
+    c.drawCentredString(width / 2, height - 140, f"Corso: {nome_file.replace('_', ' ').replace('.csv', '').title()}")
+
+    c.setFont("Helvetica", 12)
+    c.drawCentredString(width / 2, height - 180, f"Data di generazione: {date.today().isoformat()}")
+
+    c.setFont("Helvetica-Oblique", 11)
+    c.drawCentredString(width / 2, height - 240, "Studia con costanza, supera ogni ostacolo!")
+
+    c.showPage()  # nuova pagina per il piano di studio
+
+    # --- CONTENUTO ---
+    y = height - 50
+    index = 0
+    c.setFont("Helvetica", 12)
+    for settimana, num in enumerate(distribuzione, start=1):
+        c.setFont("Helvetica-Bold", 12)
+        c.drawString(margin, y, f"Settimana {settimana}")
+        y -= 20
+        c.setFont("Helvetica", 11)
+        for i in range(num):
+            c.drawString(margin + 20, y, f"- {argomenti[index]}")
+            index += 1
+            y -= 18
+
+            if y < 60:
+                c.showPage()
+                y = height - 50
+                c.setFont("Helvetica", 11)
+
+        y -= 10
+
+    c.save()
+    return temp_path

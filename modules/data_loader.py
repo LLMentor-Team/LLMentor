@@ -1,4 +1,3 @@
-# data_loader.py
 import pandas as pd
 
 def carica_syllabus(nome_file):

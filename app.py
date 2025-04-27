@@ -1,7 +1,8 @@
 import streamlit as st
 from modules.data_loader import carica_syllabus
-from modules.piano_studio import genera_piano_studio
+from modules.piano_studio import genera_piano_studio, esporta_piano_pdf
 import os
+
 
 st.set_page_config(page_title="LLMentor", layout="wide")
 st.title("LLMentor - Timeline Studio")
@@ -16,5 +17,21 @@ if not df.empty:
 
     st.header("Crea un piano di studio personalizzato")
     settimane = st.number_input("In quante settimane vuoi prepararti?", min_value=1, max_value=20, value=4)
+
     if st.button("Genera piano"):
+        # Pulisce i nomi delle colonne (in minuscolo)
+        df.columns = df.columns.str.strip().str.lower()
+
+        # Mostra la timeline
         genera_piano_studio(df, settimane)
+
+        # Esporta il piano come PDF
+        pdf_path = esporta_piano_pdf(df, settimane, selected)
+        with open(pdf_path, "rb") as f:
+            st.download_button(
+                label="Scarica piano di studio in PDF",
+                data=f.read(),
+                file_name="piano_di_studio.pdf",
+                mime="application/pdf"
+            )
+
