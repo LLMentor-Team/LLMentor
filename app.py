@@ -104,7 +104,7 @@ def esegui_quiz():
             st.error("Nessun argomento disponibile per questo file.")
             return
 
-        argomento_scelto = st.selectbox("� Seleziona un argomento:", argomenti_disponibili)
+        argomento_scelto = st.selectbox("Seleziona un argomento:", argomenti_disponibili)
 
         if argomento_scelto:
             domande = dataset_quiz[argomento_scelto]["domande"]
