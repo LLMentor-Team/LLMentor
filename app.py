@@ -1,4 +1,5 @@
 import streamlit as st
+from llm_agent import fai_domanda
 
 st.set_page_config(page_title="LLMentor", layout="wide")
 
@@ -21,6 +22,17 @@ elif pagina == "Genera Quiz":
 elif pagina == "Riassunto/Spiegazione":
     st.title("Ottieni Riassunti e Spiegazioni")
     st.write("L'AI ti aiuta a comprendere meglio i concetti chiave.")
+
+    domanda_utente = st.text_input("Scrivi qui la tua domanda o un concetto che vuoi approfondire:")
+
+    if st.button("Invia"):
+        if domanda_utente:
+            with st.spinner("Sto elaborando la risposta..."):
+                risposta = fai_domanda(domanda_utente)
+            st.success("Ecco la spiegazione:")
+            st.markdown(f"> {risposta}")
+        else:
+            st.warning("Inserisci una domanda prima di cliccare.")
 
 elif pagina == "Info Progetto":
     st.title("Info Progetto")
