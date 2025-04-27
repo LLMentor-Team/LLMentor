@@ -1,1 +1,6 @@
 streamlit
+openai
+langchain
+python-dotenv
+pandas
+pyngrok
