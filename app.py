@@ -10,14 +10,18 @@ if pagina == "Home":
     st.title("👩‍🏫 LLMentor – AI Tutor Universitario")
     st.write("Benvenuto nella piattaforma intelligente per supportare lo studio universitario.")
 
-elif pagina == "Carica File":
-    st.title("Carica i tuoi materiali di studio")
-    st.write("Syllabus, appunti o testi da cui generare quiz o riassunti.")
-    st.file_uploader("Carica un file", type=["pdf", "docx", "txt"])
+elif pagina == "Carica File": 
+    st.title("Carica i tuoi materiali di studio") 
+    st.write("Syllabus, appunti o testi da cui generare quiz o riassunti.") 
+    file = st.file_uploader("Carica un file", type=["pdf", "docx", "txt", "csv"]) 
+    if file: 
+        st.session_state.file_name = file.name 
+        st.session_state.file_bytes = file.getvalue() 
+        st.success(f"File {file.name} caricato correttamente!")
 
-elif pagina == "Genera Quiz":
-    st.title("Genera Quiz Interattivi")
-    st.write("Dopo aver caricato un file, puoi generare quiz per esercitarti.")
+elif pagina == "Genera Quiz": 
+    from modules.quiz_module import esegui_quiz 
+    esegui_quiz()
 
 elif pagina == "Riassunto/Spiegazione":
     st.title("Ottieni Riassunti e Spiegazioni")
