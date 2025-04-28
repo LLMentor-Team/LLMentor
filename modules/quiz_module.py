@@ -36,7 +36,7 @@ def esegui_quiz():
             st.error("Nessun argomento disponibile per questo file.")
             return
 
-        argomento_scelto = st.selectbox("� Seleziona un argomento:", argomenti_disponibili)
+        argomento_scelto = st.selectbox("🎯 Seleziona un argomento:", argomenti_disponibili)
 
         if argomento_scelto:
             domande = dataset_quiz[argomento_scelto]["domande"]
@@ -86,19 +86,19 @@ def esegui_quiz():
                     st.rerun()
 
             else:
-                st.success("� Quiz completato!")
-                st.write(f"� Punteggio finale: {st.session_state.punteggio} / {len(domande)}")
+                st.success("🎉 Quiz completato!")
+                st.write(f"🏆 Punteggio finale: {st.session_state.punteggio} / {len(domande)}")
 
-                with st.expander("� Rivedi le tue risposte"):
+                with st.expander("🔍 Rivedi le tue risposte"):
                     for i, r in enumerate(st.session_state.risposte):
                         st.markdown(f"""
                         {i+1}. {r['domanda']}  
-                        <span style='color: yellow;'>� Tua risposta:</span> _{r['scelta']}_ → **{r['esito']}**  
-                        {f"<span style='color: #32CD32;'>� Risposta corretta:</span> {r['corretta']}" if r['esito'] == "❌ Errata" else ""}
+                        <span style='color: yellow;'>📝 Tua risposta:</span> _{r['scelta']}_ → **{r['esito']}**  
+                        {f"<span style='color: #32CD32;'>✅ Risposta corretta:</span> {r['corretta']}" if r['esito'] == "❌ Errata" else ""}
                         """, unsafe_allow_html=True)
 
 
-                if st.button("� Ricomincia quiz"):
+                if st.button("🔄 Ricomincia quiz"):
                     del st.session_state.quiz_domande
                     del st.session_state.quiz_argomento
                     del st.session_state.indice_domanda
