@@ -4,4 +4,3 @@ langchain
 langchain-community
 python-dotenv
 pandas
-pyngrok
