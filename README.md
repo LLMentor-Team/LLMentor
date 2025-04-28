@@ -30,7 +30,6 @@ Sviluppata come progetto finale del Bootcamp AI da un team di 5 studenti, integr
 ## 🔧 Configurazione dell'API Key
 
 Per utilizzare correttamente il progetto LLMentor, è necessario configurare una chiave API di OpenAI.
-1. Creazione del file `.env`
 Nella root del progetto, crea un file chiamato `.env` (puoi duplicare il file `.env.example`).
 Aggiungi al suo interno la tua **OpenAI API Key** come segue:
 ```bash
