@@ -4,3 +4,4 @@ langchain
 langchain-community
 python-dotenv
 pandas
+matplotlib
