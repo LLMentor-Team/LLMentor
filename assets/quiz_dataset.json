@@ -1,0 +1,2257 @@
+{
+  "Ruolo economico e sociale dell’impresa": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Ruolo economico e sociale dell’impresa' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso ruolo economico e sociale dell’impresa",
+          "Riduzione drastica degli investimenti nel ruolo economico e sociale dell’impresa",
+          "Pianificazione strategica efficace del ruolo economico e sociale dell’impresa",
+          "Esclusiva attenzione a breve termine per il ruolo economico e sociale dell’impresa"
+        ],
+        "corretta": "Pianificazione strategica efficace del ruolo economico e sociale dell’impresa"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Ruolo economico e sociale dell’impresa'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a ruolo economico e sociale dell’impresa",
+          "Investire in formazione continua sul tema del ruolo economico e sociale dell’impresa",
+          "Mantenere un alto livello di attenzione verso il ruolo economico e sociale dell’impresa",
+          "Sottovalutare l'importanza strategica di ruolo economico e sociale dell’impresa"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di ruolo economico e sociale dell’impresa"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Ruolo economico e sociale dell’impresa'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul ruolo economico e sociale dell’impresa",
+          "Limitando il personale specializzato nel settore ruolo economico e sociale dell’impresa",
+          "Trascurando gli aggiornamenti tecnologici relativi a ruolo economico e sociale dell’impresa",
+          "Implementando tecnologie avanzate dedicate al ruolo economico e sociale dell’impresa"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al ruolo economico e sociale dell’impresa"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Ruolo economico e sociale dell’impresa'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a ruolo economico e sociale dell’impresa",
+          "Limitando il personale specializzato nel settore ruolo economico e sociale dell’impresa",
+          "Aumentando le procedure burocratiche sul ruolo economico e sociale dell’impresa",
+          "Implementando tecnologie avanzate dedicate al ruolo economico e sociale dell’impresa"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al ruolo economico e sociale dell’impresa"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Ruolo economico e sociale dell’impresa'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a ruolo economico e sociale dell’impresa",
+          "Implementando tecnologie avanzate dedicate al ruolo economico e sociale dell’impresa",
+          "Aumentando le procedure burocratiche sul ruolo economico e sociale dell’impresa",
+          "Limitando il personale specializzato nel settore ruolo economico e sociale dell’impresa"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al ruolo economico e sociale dell’impresa"
+      }
+    ]
+  },
+  "Interdipendenza impresa-ambiente": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Interdipendenza impresa-ambiente' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del interdipendenza impresa-ambiente",
+          "Riduzione drastica degli investimenti nel interdipendenza impresa-ambiente",
+          "Esclusiva attenzione a breve termine per il interdipendenza impresa-ambiente",
+          "Totale disinteresse verso interdipendenza impresa-ambiente"
+        ],
+        "corretta": "Pianificazione strategica efficace del interdipendenza impresa-ambiente"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Interdipendenza impresa-ambiente'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del interdipendenza impresa-ambiente",
+          "Incorporare tecnologie innovative relative a interdipendenza impresa-ambiente",
+          "Sottovalutare l'importanza strategica di interdipendenza impresa-ambiente",
+          "Mantenere un alto livello di attenzione verso il interdipendenza impresa-ambiente"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di interdipendenza impresa-ambiente"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Interdipendenza impresa-ambiente'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a interdipendenza impresa-ambiente",
+          "Limitando il personale specializzato nel settore interdipendenza impresa-ambiente",
+          "Implementando tecnologie avanzate dedicate al interdipendenza impresa-ambiente",
+          "Aumentando le procedure burocratiche sul interdipendenza impresa-ambiente"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al interdipendenza impresa-ambiente"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Interdipendenza impresa-ambiente' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il interdipendenza impresa-ambiente",
+          "Totale disinteresse verso interdipendenza impresa-ambiente",
+          "Riduzione drastica degli investimenti nel interdipendenza impresa-ambiente",
+          "Pianificazione strategica efficace del interdipendenza impresa-ambiente"
+        ],
+        "corretta": "Pianificazione strategica efficace del interdipendenza impresa-ambiente"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Interdipendenza impresa-ambiente'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a interdipendenza impresa-ambiente",
+          "Mantenere un alto livello di attenzione verso il interdipendenza impresa-ambiente",
+          "Investire in formazione continua sul tema del interdipendenza impresa-ambiente",
+          "Sottovalutare l'importanza strategica di interdipendenza impresa-ambiente"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di interdipendenza impresa-ambiente"
+      }
+    ]
+  },
+  "Stakeholder e imprenditore": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Stakeholder e imprenditore' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel stakeholder e imprenditore",
+          "Totale disinteresse verso stakeholder e imprenditore",
+          "Esclusiva attenzione a breve termine per il stakeholder e imprenditore",
+          "Pianificazione strategica efficace del stakeholder e imprenditore"
+        ],
+        "corretta": "Pianificazione strategica efficace del stakeholder e imprenditore"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Stakeholder e imprenditore'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del stakeholder e imprenditore",
+          "Incorporare tecnologie innovative relative a stakeholder e imprenditore",
+          "Mantenere un alto livello di attenzione verso il stakeholder e imprenditore",
+          "Sottovalutare l'importanza strategica di stakeholder e imprenditore"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di stakeholder e imprenditore"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Stakeholder e imprenditore'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al stakeholder e imprenditore",
+          "Aumentando le procedure burocratiche sul stakeholder e imprenditore",
+          "Trascurando gli aggiornamenti tecnologici relativi a stakeholder e imprenditore",
+          "Limitando il personale specializzato nel settore stakeholder e imprenditore"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al stakeholder e imprenditore"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Stakeholder e imprenditore' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il stakeholder e imprenditore",
+          "Pianificazione strategica efficace del stakeholder e imprenditore",
+          "Totale disinteresse verso stakeholder e imprenditore",
+          "Riduzione drastica degli investimenti nel stakeholder e imprenditore"
+        ],
+        "corretta": "Pianificazione strategica efficace del stakeholder e imprenditore"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Stakeholder e imprenditore'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il stakeholder e imprenditore",
+          "Incorporare tecnologie innovative relative a stakeholder e imprenditore",
+          "Investire in formazione continua sul tema del stakeholder e imprenditore",
+          "Sottovalutare l'importanza strategica di stakeholder e imprenditore"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di stakeholder e imprenditore"
+      }
+    ]
+  },
+  "Gestione strategica e indirizzi strategici": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Gestione strategica e indirizzi strategici' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso gestione strategica e indirizzi strategici",
+          "Riduzione drastica degli investimenti nel gestione strategica e indirizzi strategici",
+          "Esclusiva attenzione a breve termine per il gestione strategica e indirizzi strategici",
+          "Pianificazione strategica efficace del gestione strategica e indirizzi strategici"
+        ],
+        "corretta": "Pianificazione strategica efficace del gestione strategica e indirizzi strategici"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Gestione strategica e indirizzi strategici'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di gestione strategica e indirizzi strategici",
+          "Investire in formazione continua sul tema del gestione strategica e indirizzi strategici",
+          "Mantenere un alto livello di attenzione verso il gestione strategica e indirizzi strategici",
+          "Incorporare tecnologie innovative relative a gestione strategica e indirizzi strategici"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di gestione strategica e indirizzi strategici"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Gestione strategica e indirizzi strategici'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore gestione strategica e indirizzi strategici",
+          "Implementando tecnologie avanzate dedicate al gestione strategica e indirizzi strategici",
+          "Trascurando gli aggiornamenti tecnologici relativi a gestione strategica e indirizzi strategici",
+          "Aumentando le procedure burocratiche sul gestione strategica e indirizzi strategici"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al gestione strategica e indirizzi strategici"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Gestione strategica e indirizzi strategici'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a gestione strategica e indirizzi strategici",
+          "Investire in formazione continua sul tema del gestione strategica e indirizzi strategici",
+          "Mantenere un alto livello di attenzione verso il gestione strategica e indirizzi strategici",
+          "Sottovalutare l'importanza strategica di gestione strategica e indirizzi strategici"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di gestione strategica e indirizzi strategici"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Gestione strategica e indirizzi strategici'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a gestione strategica e indirizzi strategici",
+          "Investire in formazione continua sul tema del gestione strategica e indirizzi strategici",
+          "Mantenere un alto livello di attenzione verso il gestione strategica e indirizzi strategici",
+          "Sottovalutare l'importanza strategica di gestione strategica e indirizzi strategici"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di gestione strategica e indirizzi strategici"
+      }
+    ]
+  },
+  "Strategie competitive e sviluppo dimensionale": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Strategie competitive e sviluppo dimensionale' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del strategie competitive e sviluppo dimensionale",
+          "Riduzione drastica degli investimenti nel strategie competitive e sviluppo dimensionale",
+          "Totale disinteresse verso strategie competitive e sviluppo dimensionale",
+          "Esclusiva attenzione a breve termine per il strategie competitive e sviluppo dimensionale"
+        ],
+        "corretta": "Pianificazione strategica efficace del strategie competitive e sviluppo dimensionale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Strategie competitive e sviluppo dimensionale'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il strategie competitive e sviluppo dimensionale",
+          "Sottovalutare l'importanza strategica di strategie competitive e sviluppo dimensionale",
+          "Incorporare tecnologie innovative relative a strategie competitive e sviluppo dimensionale",
+          "Investire in formazione continua sul tema del strategie competitive e sviluppo dimensionale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di strategie competitive e sviluppo dimensionale"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Strategie competitive e sviluppo dimensionale'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al strategie competitive e sviluppo dimensionale",
+          "Aumentando le procedure burocratiche sul strategie competitive e sviluppo dimensionale",
+          "Limitando il personale specializzato nel settore strategie competitive e sviluppo dimensionale",
+          "Trascurando gli aggiornamenti tecnologici relativi a strategie competitive e sviluppo dimensionale"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al strategie competitive e sviluppo dimensionale"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Strategie competitive e sviluppo dimensionale'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore strategie competitive e sviluppo dimensionale",
+          "Aumentando le procedure burocratiche sul strategie competitive e sviluppo dimensionale",
+          "Implementando tecnologie avanzate dedicate al strategie competitive e sviluppo dimensionale",
+          "Trascurando gli aggiornamenti tecnologici relativi a strategie competitive e sviluppo dimensionale"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al strategie competitive e sviluppo dimensionale"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Strategie competitive e sviluppo dimensionale' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel strategie competitive e sviluppo dimensionale",
+          "Esclusiva attenzione a breve termine per il strategie competitive e sviluppo dimensionale",
+          "Pianificazione strategica efficace del strategie competitive e sviluppo dimensionale",
+          "Totale disinteresse verso strategie competitive e sviluppo dimensionale"
+        ],
+        "corretta": "Pianificazione strategica efficace del strategie competitive e sviluppo dimensionale"
+      }
+    ]
+  },
+  "Processo di direzione e controllo": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Processo di direzione e controllo' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del processo di direzione e controllo",
+          "Esclusiva attenzione a breve termine per il processo di direzione e controllo",
+          "Totale disinteresse verso processo di direzione e controllo",
+          "Riduzione drastica degli investimenti nel processo di direzione e controllo"
+        ],
+        "corretta": "Pianificazione strategica efficace del processo di direzione e controllo"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Processo di direzione e controllo'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a processo di direzione e controllo",
+          "Sottovalutare l'importanza strategica di processo di direzione e controllo",
+          "Mantenere un alto livello di attenzione verso il processo di direzione e controllo",
+          "Investire in formazione continua sul tema del processo di direzione e controllo"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di processo di direzione e controllo"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Processo di direzione e controllo'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore processo di direzione e controllo",
+          "Aumentando le procedure burocratiche sul processo di direzione e controllo",
+          "Trascurando gli aggiornamenti tecnologici relativi a processo di direzione e controllo",
+          "Implementando tecnologie avanzate dedicate al processo di direzione e controllo"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al processo di direzione e controllo"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Processo di direzione e controllo' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del processo di direzione e controllo",
+          "Totale disinteresse verso processo di direzione e controllo",
+          "Riduzione drastica degli investimenti nel processo di direzione e controllo",
+          "Esclusiva attenzione a breve termine per il processo di direzione e controllo"
+        ],
+        "corretta": "Pianificazione strategica efficace del processo di direzione e controllo"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Processo di direzione e controllo' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il processo di direzione e controllo",
+          "Totale disinteresse verso processo di direzione e controllo",
+          "Riduzione drastica degli investimenti nel processo di direzione e controllo",
+          "Pianificazione strategica efficace del processo di direzione e controllo"
+        ],
+        "corretta": "Pianificazione strategica efficace del processo di direzione e controllo"
+      }
+    ]
+  },
+  "Gestione risorse umane e leadership": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Gestione risorse umane e leadership' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del gestione risorse umane e leadership",
+          "Esclusiva attenzione a breve termine per il gestione risorse umane e leadership",
+          "Totale disinteresse verso gestione risorse umane e leadership",
+          "Riduzione drastica degli investimenti nel gestione risorse umane e leadership"
+        ],
+        "corretta": "Pianificazione strategica efficace del gestione risorse umane e leadership"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Gestione risorse umane e leadership'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a gestione risorse umane e leadership",
+          "Investire in formazione continua sul tema del gestione risorse umane e leadership",
+          "Sottovalutare l'importanza strategica di gestione risorse umane e leadership",
+          "Mantenere un alto livello di attenzione verso il gestione risorse umane e leadership"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di gestione risorse umane e leadership"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Gestione risorse umane e leadership'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul gestione risorse umane e leadership",
+          "Limitando il personale specializzato nel settore gestione risorse umane e leadership",
+          "Trascurando gli aggiornamenti tecnologici relativi a gestione risorse umane e leadership",
+          "Implementando tecnologie avanzate dedicate al gestione risorse umane e leadership"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al gestione risorse umane e leadership"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Gestione risorse umane e leadership' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il gestione risorse umane e leadership",
+          "Totale disinteresse verso gestione risorse umane e leadership",
+          "Pianificazione strategica efficace del gestione risorse umane e leadership",
+          "Riduzione drastica degli investimenti nel gestione risorse umane e leadership"
+        ],
+        "corretta": "Pianificazione strategica efficace del gestione risorse umane e leadership"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Gestione risorse umane e leadership'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a gestione risorse umane e leadership",
+          "Implementando tecnologie avanzate dedicate al gestione risorse umane e leadership",
+          "Limitando il personale specializzato nel settore gestione risorse umane e leadership",
+          "Aumentando le procedure burocratiche sul gestione risorse umane e leadership"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al gestione risorse umane e leadership"
+      }
+    ]
+  },
+  "Sistema informativo e gestione conoscenza": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Qual è un vantaggio chiave dei sistemi informativi nella gestione della conoscenza aziendale?",
+        "opzioni": [
+          "Eliminare completamente l'errore umano",
+          "Facilitare la condivisione delle informazioni interne",
+          "Ridurre il coinvolgimento degli stakeholder",
+          "Ridurre il costo dell'energia elettrica"
+        ],
+        "corretta": "Facilitare la condivisione delle informazioni interne"
+      },
+      {
+        "domanda": "Che tipo di sistema informativo è più adatto per una grande azienda multinazionale?",
+        "opzioni": [
+          "Foglio di calcolo individuale",
+          "Enterprise Resource Planning (ERP)",
+          "Software gestionale gratuito non integrato",
+          "Sistema informativo manuale"
+        ],
+        "corretta": "Enterprise Resource Planning (ERP)"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Sistema informativo e gestione conoscenza'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore sistema informativo e gestione conoscenza",
+          "Aumentando le procedure burocratiche sul sistema informativo e gestione conoscenza",
+          "Implementando tecnologie avanzate dedicate al sistema informativo e gestione conoscenza",
+          "Trascurando gli aggiornamenti tecnologici relativi a sistema informativo e gestione conoscenza"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al sistema informativo e gestione conoscenza"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Sistema informativo e gestione conoscenza'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore sistema informativo e gestione conoscenza",
+          "Aumentando le procedure burocratiche sul sistema informativo e gestione conoscenza",
+          "Implementando tecnologie avanzate dedicate al sistema informativo e gestione conoscenza",
+          "Trascurando gli aggiornamenti tecnologici relativi a sistema informativo e gestione conoscenza"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al sistema informativo e gestione conoscenza"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Sistema informativo e gestione conoscenza' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel sistema informativo e gestione conoscenza",
+          "Pianificazione strategica efficace del sistema informativo e gestione conoscenza",
+          "Esclusiva attenzione a breve termine per il sistema informativo e gestione conoscenza",
+          "Totale disinteresse verso sistema informativo e gestione conoscenza"
+        ],
+        "corretta": "Pianificazione strategica efficace del sistema informativo e gestione conoscenza"
+      }
+    ]
+  },
+  "Marketing e gestione commerciale": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Marketing e gestione commerciale' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del marketing e gestione commerciale",
+          "Totale disinteresse verso marketing e gestione commerciale",
+          "Esclusiva attenzione a breve termine per il marketing e gestione commerciale",
+          "Riduzione drastica degli investimenti nel marketing e gestione commerciale"
+        ],
+        "corretta": "Pianificazione strategica efficace del marketing e gestione commerciale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Marketing e gestione commerciale'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di marketing e gestione commerciale",
+          "Mantenere un alto livello di attenzione verso il marketing e gestione commerciale",
+          "Investire in formazione continua sul tema del marketing e gestione commerciale",
+          "Incorporare tecnologie innovative relative a marketing e gestione commerciale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di marketing e gestione commerciale"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Marketing e gestione commerciale'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al marketing e gestione commerciale",
+          "Aumentando le procedure burocratiche sul marketing e gestione commerciale",
+          "Limitando il personale specializzato nel settore marketing e gestione commerciale",
+          "Trascurando gli aggiornamenti tecnologici relativi a marketing e gestione commerciale"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al marketing e gestione commerciale"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Marketing e gestione commerciale' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del marketing e gestione commerciale",
+          "Esclusiva attenzione a breve termine per il marketing e gestione commerciale",
+          "Riduzione drastica degli investimenti nel marketing e gestione commerciale",
+          "Totale disinteresse verso marketing e gestione commerciale"
+        ],
+        "corretta": "Pianificazione strategica efficace del marketing e gestione commerciale"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Marketing e gestione commerciale' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso marketing e gestione commerciale",
+          "Riduzione drastica degli investimenti nel marketing e gestione commerciale",
+          "Esclusiva attenzione a breve termine per il marketing e gestione commerciale",
+          "Pianificazione strategica efficace del marketing e gestione commerciale"
+        ],
+        "corretta": "Pianificazione strategica efficace del marketing e gestione commerciale"
+      }
+    ]
+  },
+  "Processo produttivo e impianti": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Processo produttivo e impianti' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel processo produttivo e impianti",
+          "Totale disinteresse verso processo produttivo e impianti",
+          "Esclusiva attenzione a breve termine per il processo produttivo e impianti",
+          "Pianificazione strategica efficace del processo produttivo e impianti"
+        ],
+        "corretta": "Pianificazione strategica efficace del processo produttivo e impianti"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Processo produttivo e impianti'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a processo produttivo e impianti",
+          "Sottovalutare l'importanza strategica di processo produttivo e impianti",
+          "Investire in formazione continua sul tema del processo produttivo e impianti",
+          "Mantenere un alto livello di attenzione verso il processo produttivo e impianti"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di processo produttivo e impianti"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Processo produttivo e impianti'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore processo produttivo e impianti",
+          "Trascurando gli aggiornamenti tecnologici relativi a processo produttivo e impianti",
+          "Aumentando le procedure burocratiche sul processo produttivo e impianti",
+          "Implementando tecnologie avanzate dedicate al processo produttivo e impianti"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al processo produttivo e impianti"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Processo produttivo e impianti' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del processo produttivo e impianti",
+          "Esclusiva attenzione a breve termine per il processo produttivo e impianti",
+          "Totale disinteresse verso processo produttivo e impianti",
+          "Riduzione drastica degli investimenti nel processo produttivo e impianti"
+        ],
+        "corretta": "Pianificazione strategica efficace del processo produttivo e impianti"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Processo produttivo e impianti'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul processo produttivo e impianti",
+          "Trascurando gli aggiornamenti tecnologici relativi a processo produttivo e impianti",
+          "Implementando tecnologie avanzate dedicate al processo produttivo e impianti",
+          "Limitando il personale specializzato nel settore processo produttivo e impianti"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al processo produttivo e impianti"
+      }
+    ]
+  },
+  "Gestione finanziaria e logistica": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Gestione finanziaria e logistica' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso gestione finanziaria e logistica",
+          "Pianificazione strategica efficace del gestione finanziaria e logistica",
+          "Riduzione drastica degli investimenti nel gestione finanziaria e logistica",
+          "Esclusiva attenzione a breve termine per il gestione finanziaria e logistica"
+        ],
+        "corretta": "Pianificazione strategica efficace del gestione finanziaria e logistica"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Gestione finanziaria e logistica'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del gestione finanziaria e logistica",
+          "Sottovalutare l'importanza strategica di gestione finanziaria e logistica",
+          "Incorporare tecnologie innovative relative a gestione finanziaria e logistica",
+          "Mantenere un alto livello di attenzione verso il gestione finanziaria e logistica"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di gestione finanziaria e logistica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Gestione finanziaria e logistica'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a gestione finanziaria e logistica",
+          "Limitando il personale specializzato nel settore gestione finanziaria e logistica",
+          "Implementando tecnologie avanzate dedicate al gestione finanziaria e logistica",
+          "Aumentando le procedure burocratiche sul gestione finanziaria e logistica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al gestione finanziaria e logistica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Gestione finanziaria e logistica'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore gestione finanziaria e logistica",
+          "Trascurando gli aggiornamenti tecnologici relativi a gestione finanziaria e logistica",
+          "Aumentando le procedure burocratiche sul gestione finanziaria e logistica",
+          "Implementando tecnologie avanzate dedicate al gestione finanziaria e logistica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al gestione finanziaria e logistica"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Gestione finanziaria e logistica' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del gestione finanziaria e logistica",
+          "Riduzione drastica degli investimenti nel gestione finanziaria e logistica",
+          "Totale disinteresse verso gestione finanziaria e logistica",
+          "Esclusiva attenzione a breve termine per il gestione finanziaria e logistica"
+        ],
+        "corretta": "Pianificazione strategica efficace del gestione finanziaria e logistica"
+      }
+    ]
+  },
+  "Ricerca, sviluppo e tecniche gestionali": {
+    "categoria_file": "economia_gestione_imprese",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Ricerca, sviluppo e tecniche gestionali' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso ricerca, sviluppo e tecniche gestionali",
+          "Riduzione drastica degli investimenti nel ricerca, sviluppo e tecniche gestionali",
+          "Pianificazione strategica efficace del ricerca, sviluppo e tecniche gestionali",
+          "Esclusiva attenzione a breve termine per il ricerca, sviluppo e tecniche gestionali"
+        ],
+        "corretta": "Pianificazione strategica efficace del ricerca, sviluppo e tecniche gestionali"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Ricerca, sviluppo e tecniche gestionali'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di ricerca, sviluppo e tecniche gestionali",
+          "Investire in formazione continua sul tema del ricerca, sviluppo e tecniche gestionali",
+          "Mantenere un alto livello di attenzione verso il ricerca, sviluppo e tecniche gestionali",
+          "Incorporare tecnologie innovative relative a ricerca, sviluppo e tecniche gestionali"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di ricerca, sviluppo e tecniche gestionali"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Ricerca, sviluppo e tecniche gestionali'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al ricerca, sviluppo e tecniche gestionali",
+          "Trascurando gli aggiornamenti tecnologici relativi a ricerca, sviluppo e tecniche gestionali",
+          "Limitando il personale specializzato nel settore ricerca, sviluppo e tecniche gestionali",
+          "Aumentando le procedure burocratiche sul ricerca, sviluppo e tecniche gestionali"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al ricerca, sviluppo e tecniche gestionali"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Ricerca, sviluppo e tecniche gestionali'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del ricerca, sviluppo e tecniche gestionali",
+          "Mantenere un alto livello di attenzione verso il ricerca, sviluppo e tecniche gestionali",
+          "Sottovalutare l'importanza strategica di ricerca, sviluppo e tecniche gestionali",
+          "Incorporare tecnologie innovative relative a ricerca, sviluppo e tecniche gestionali"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di ricerca, sviluppo e tecniche gestionali"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Ricerca, sviluppo e tecniche gestionali'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di ricerca, sviluppo e tecniche gestionali",
+          "Mantenere un alto livello di attenzione verso il ricerca, sviluppo e tecniche gestionali",
+          "Investire in formazione continua sul tema del ricerca, sviluppo e tecniche gestionali",
+          "Incorporare tecnologie innovative relative a ricerca, sviluppo e tecniche gestionali"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di ricerca, sviluppo e tecniche gestionali"
+      }
+    ]
+  },
+  "Introduzione all’economia politica": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Introduzione all’economia politica' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il introduzione all’economia politica",
+          "Pianificazione strategica efficace del introduzione all’economia politica",
+          "Totale disinteresse verso introduzione all’economia politica",
+          "Riduzione drastica degli investimenti nel introduzione all’economia politica"
+        ],
+        "corretta": "Pianificazione strategica efficace del introduzione all’economia politica"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Introduzione all’economia politica'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di introduzione all’economia politica",
+          "Investire in formazione continua sul tema del introduzione all’economia politica",
+          "Mantenere un alto livello di attenzione verso il introduzione all’economia politica",
+          "Incorporare tecnologie innovative relative a introduzione all’economia politica"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di introduzione all’economia politica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Introduzione all’economia politica'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul introduzione all’economia politica",
+          "Limitando il personale specializzato nel settore introduzione all’economia politica",
+          "Trascurando gli aggiornamenti tecnologici relativi a introduzione all’economia politica",
+          "Implementando tecnologie avanzate dedicate al introduzione all’economia politica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al introduzione all’economia politica"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Introduzione all’economia politica'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del introduzione all’economia politica",
+          "Incorporare tecnologie innovative relative a introduzione all’economia politica",
+          "Sottovalutare l'importanza strategica di introduzione all’economia politica",
+          "Mantenere un alto livello di attenzione verso il introduzione all’economia politica"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di introduzione all’economia politica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Introduzione all’economia politica'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore introduzione all’economia politica",
+          "Aumentando le procedure burocratiche sul introduzione all’economia politica",
+          "Trascurando gli aggiornamenti tecnologici relativi a introduzione all’economia politica",
+          "Implementando tecnologie avanzate dedicate al introduzione all’economia politica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al introduzione all’economia politica"
+      }
+    ]
+  },
+  "Domanda e Offerta": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Domanda e Offerta' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel domanda e offerta",
+          "Pianificazione strategica efficace del domanda e offerta",
+          "Esclusiva attenzione a breve termine per il domanda e offerta",
+          "Totale disinteresse verso domanda e offerta"
+        ],
+        "corretta": "Pianificazione strategica efficace del domanda e offerta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Domanda e Offerta'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del domanda e offerta",
+          "Mantenere un alto livello di attenzione verso il domanda e offerta",
+          "Incorporare tecnologie innovative relative a domanda e offerta",
+          "Sottovalutare l'importanza strategica di domanda e offerta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di domanda e offerta"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Domanda e Offerta'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a domanda e offerta",
+          "Aumentando le procedure burocratiche sul domanda e offerta",
+          "Implementando tecnologie avanzate dedicate al domanda e offerta",
+          "Limitando il personale specializzato nel settore domanda e offerta"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al domanda e offerta"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Domanda e Offerta'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul domanda e offerta",
+          "Limitando il personale specializzato nel settore domanda e offerta",
+          "Trascurando gli aggiornamenti tecnologici relativi a domanda e offerta",
+          "Implementando tecnologie avanzate dedicate al domanda e offerta"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al domanda e offerta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Domanda e Offerta'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di domanda e offerta",
+          "Incorporare tecnologie innovative relative a domanda e offerta",
+          "Investire in formazione continua sul tema del domanda e offerta",
+          "Mantenere un alto livello di attenzione verso il domanda e offerta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di domanda e offerta"
+      }
+    ]
+  },
+  "Scelte del consumatore": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Scelte del consumatore' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso scelte del consumatore",
+          "Riduzione drastica degli investimenti nel scelte del consumatore",
+          "Esclusiva attenzione a breve termine per il scelte del consumatore",
+          "Pianificazione strategica efficace del scelte del consumatore"
+        ],
+        "corretta": "Pianificazione strategica efficace del scelte del consumatore"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Scelte del consumatore'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del scelte del consumatore",
+          "Sottovalutare l'importanza strategica di scelte del consumatore",
+          "Incorporare tecnologie innovative relative a scelte del consumatore",
+          "Mantenere un alto livello di attenzione verso il scelte del consumatore"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di scelte del consumatore"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Scelte del consumatore'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul scelte del consumatore",
+          "Implementando tecnologie avanzate dedicate al scelte del consumatore",
+          "Limitando il personale specializzato nel settore scelte del consumatore",
+          "Trascurando gli aggiornamenti tecnologici relativi a scelte del consumatore"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al scelte del consumatore"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Scelte del consumatore' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso scelte del consumatore",
+          "Pianificazione strategica efficace del scelte del consumatore",
+          "Riduzione drastica degli investimenti nel scelte del consumatore",
+          "Esclusiva attenzione a breve termine per il scelte del consumatore"
+        ],
+        "corretta": "Pianificazione strategica efficace del scelte del consumatore"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Scelte del consumatore' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel scelte del consumatore",
+          "Esclusiva attenzione a breve termine per il scelte del consumatore",
+          "Totale disinteresse verso scelte del consumatore",
+          "Pianificazione strategica efficace del scelte del consumatore"
+        ],
+        "corretta": "Pianificazione strategica efficace del scelte del consumatore"
+      }
+    ]
+  },
+  "Teoria della produzione": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Teoria della produzione' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso teoria della produzione",
+          "Pianificazione strategica efficace del teoria della produzione",
+          "Esclusiva attenzione a breve termine per il teoria della produzione",
+          "Riduzione drastica degli investimenti nel teoria della produzione"
+        ],
+        "corretta": "Pianificazione strategica efficace del teoria della produzione"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Teoria della produzione'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del teoria della produzione",
+          "Mantenere un alto livello di attenzione verso il teoria della produzione",
+          "Sottovalutare l'importanza strategica di teoria della produzione",
+          "Incorporare tecnologie innovative relative a teoria della produzione"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di teoria della produzione"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Teoria della produzione'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al teoria della produzione",
+          "Aumentando le procedure burocratiche sul teoria della produzione",
+          "Trascurando gli aggiornamenti tecnologici relativi a teoria della produzione",
+          "Limitando il personale specializzato nel settore teoria della produzione"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al teoria della produzione"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Teoria della produzione' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del teoria della produzione",
+          "Riduzione drastica degli investimenti nel teoria della produzione",
+          "Esclusiva attenzione a breve termine per il teoria della produzione",
+          "Totale disinteresse verso teoria della produzione"
+        ],
+        "corretta": "Pianificazione strategica efficace del teoria della produzione"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Teoria della produzione' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il teoria della produzione",
+          "Totale disinteresse verso teoria della produzione",
+          "Pianificazione strategica efficace del teoria della produzione",
+          "Riduzione drastica degli investimenti nel teoria della produzione"
+        ],
+        "corretta": "Pianificazione strategica efficace del teoria della produzione"
+      }
+    ]
+  },
+  "Analisi dei costi": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Analisi dei costi' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel analisi dei costi",
+          "Totale disinteresse verso analisi dei costi",
+          "Pianificazione strategica efficace del analisi dei costi",
+          "Esclusiva attenzione a breve termine per il analisi dei costi"
+        ],
+        "corretta": "Pianificazione strategica efficace del analisi dei costi"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Analisi dei costi'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del analisi dei costi",
+          "Incorporare tecnologie innovative relative a analisi dei costi",
+          "Sottovalutare l'importanza strategica di analisi dei costi",
+          "Mantenere un alto livello di attenzione verso il analisi dei costi"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di analisi dei costi"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Analisi dei costi'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al analisi dei costi",
+          "Limitando il personale specializzato nel settore analisi dei costi",
+          "Aumentando le procedure burocratiche sul analisi dei costi",
+          "Trascurando gli aggiornamenti tecnologici relativi a analisi dei costi"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al analisi dei costi"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Analisi dei costi' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il analisi dei costi",
+          "Pianificazione strategica efficace del analisi dei costi",
+          "Riduzione drastica degli investimenti nel analisi dei costi",
+          "Totale disinteresse verso analisi dei costi"
+        ],
+        "corretta": "Pianificazione strategica efficace del analisi dei costi"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Analisi dei costi' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel analisi dei costi",
+          "Totale disinteresse verso analisi dei costi",
+          "Esclusiva attenzione a breve termine per il analisi dei costi",
+          "Pianificazione strategica efficace del analisi dei costi"
+        ],
+        "corretta": "Pianificazione strategica efficace del analisi dei costi"
+      }
+    ]
+  },
+  "Rendita economica": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Rendita economica' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel rendita economica",
+          "Esclusiva attenzione a breve termine per il rendita economica",
+          "Pianificazione strategica efficace del rendita economica",
+          "Totale disinteresse verso rendita economica"
+        ],
+        "corretta": "Pianificazione strategica efficace del rendita economica"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Rendita economica'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di rendita economica",
+          "Investire in formazione continua sul tema del rendita economica",
+          "Mantenere un alto livello di attenzione verso il rendita economica",
+          "Incorporare tecnologie innovative relative a rendita economica"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di rendita economica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Rendita economica'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a rendita economica",
+          "Implementando tecnologie avanzate dedicate al rendita economica",
+          "Aumentando le procedure burocratiche sul rendita economica",
+          "Limitando il personale specializzato nel settore rendita economica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al rendita economica"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Rendita economica' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel rendita economica",
+          "Totale disinteresse verso rendita economica",
+          "Pianificazione strategica efficace del rendita economica",
+          "Esclusiva attenzione a breve termine per il rendita economica"
+        ],
+        "corretta": "Pianificazione strategica efficace del rendita economica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Rendita economica'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al rendita economica",
+          "Trascurando gli aggiornamenti tecnologici relativi a rendita economica",
+          "Aumentando le procedure burocratiche sul rendita economica",
+          "Limitando il personale specializzato nel settore rendita economica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al rendita economica"
+      }
+    ]
+  },
+  "Mercati concorrenziali": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercati concorrenziali' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso mercati concorrenziali",
+          "Riduzione drastica degli investimenti nel mercati concorrenziali",
+          "Pianificazione strategica efficace del mercati concorrenziali",
+          "Esclusiva attenzione a breve termine per il mercati concorrenziali"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercati concorrenziali"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Mercati concorrenziali'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il mercati concorrenziali",
+          "Sottovalutare l'importanza strategica di mercati concorrenziali",
+          "Investire in formazione continua sul tema del mercati concorrenziali",
+          "Incorporare tecnologie innovative relative a mercati concorrenziali"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di mercati concorrenziali"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Mercati concorrenziali'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al mercati concorrenziali",
+          "Trascurando gli aggiornamenti tecnologici relativi a mercati concorrenziali",
+          "Aumentando le procedure burocratiche sul mercati concorrenziali",
+          "Limitando il personale specializzato nel settore mercati concorrenziali"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al mercati concorrenziali"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercati concorrenziali' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso mercati concorrenziali",
+          "Riduzione drastica degli investimenti nel mercati concorrenziali",
+          "Pianificazione strategica efficace del mercati concorrenziali",
+          "Esclusiva attenzione a breve termine per il mercati concorrenziali"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercati concorrenziali"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercati concorrenziali' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il mercati concorrenziali",
+          "Totale disinteresse verso mercati concorrenziali",
+          "Riduzione drastica degli investimenti nel mercati concorrenziali",
+          "Pianificazione strategica efficace del mercati concorrenziali"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercati concorrenziali"
+      }
+    ]
+  },
+  "Monopolio": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Monopolio' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso monopolio",
+          "Pianificazione strategica efficace del monopolio",
+          "Riduzione drastica degli investimenti nel monopolio",
+          "Esclusiva attenzione a breve termine per il monopolio"
+        ],
+        "corretta": "Pianificazione strategica efficace del monopolio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Monopolio'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di monopolio",
+          "Mantenere un alto livello di attenzione verso il monopolio",
+          "Incorporare tecnologie innovative relative a monopolio",
+          "Investire in formazione continua sul tema del monopolio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di monopolio"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Monopolio'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul monopolio",
+          "Limitando il personale specializzato nel settore monopolio",
+          "Implementando tecnologie avanzate dedicate al monopolio",
+          "Trascurando gli aggiornamenti tecnologici relativi a monopolio"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al monopolio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Monopolio'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il monopolio",
+          "Investire in formazione continua sul tema del monopolio",
+          "Incorporare tecnologie innovative relative a monopolio",
+          "Sottovalutare l'importanza strategica di monopolio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di monopolio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Monopolio'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del monopolio",
+          "Incorporare tecnologie innovative relative a monopolio",
+          "Sottovalutare l'importanza strategica di monopolio",
+          "Mantenere un alto livello di attenzione verso il monopolio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di monopolio"
+      }
+    ]
+  },
+  "Oligopolio": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Oligopolio' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il oligopolio",
+          "Pianificazione strategica efficace del oligopolio",
+          "Totale disinteresse verso oligopolio",
+          "Riduzione drastica degli investimenti nel oligopolio"
+        ],
+        "corretta": "Pianificazione strategica efficace del oligopolio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Oligopolio'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di oligopolio",
+          "Mantenere un alto livello di attenzione verso il oligopolio",
+          "Investire in formazione continua sul tema del oligopolio",
+          "Incorporare tecnologie innovative relative a oligopolio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di oligopolio"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Oligopolio'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore oligopolio",
+          "Aumentando le procedure burocratiche sul oligopolio",
+          "Implementando tecnologie avanzate dedicate al oligopolio",
+          "Trascurando gli aggiornamenti tecnologici relativi a oligopolio"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al oligopolio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Oligopolio'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a oligopolio",
+          "Sottovalutare l'importanza strategica di oligopolio",
+          "Mantenere un alto livello di attenzione verso il oligopolio",
+          "Investire in formazione continua sul tema del oligopolio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di oligopolio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Oligopolio'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del oligopolio",
+          "Sottovalutare l'importanza strategica di oligopolio",
+          "Mantenere un alto livello di attenzione verso il oligopolio",
+          "Incorporare tecnologie innovative relative a oligopolio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di oligopolio"
+      }
+    ]
+  },
+  "Teoria dei giochi": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Teoria dei giochi' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il teoria dei giochi",
+          "Pianificazione strategica efficace del teoria dei giochi",
+          "Riduzione drastica degli investimenti nel teoria dei giochi",
+          "Totale disinteresse verso teoria dei giochi"
+        ],
+        "corretta": "Pianificazione strategica efficace del teoria dei giochi"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Teoria dei giochi'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il teoria dei giochi",
+          "Sottovalutare l'importanza strategica di teoria dei giochi",
+          "Investire in formazione continua sul tema del teoria dei giochi",
+          "Incorporare tecnologie innovative relative a teoria dei giochi"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di teoria dei giochi"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Teoria dei giochi'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al teoria dei giochi",
+          "Trascurando gli aggiornamenti tecnologici relativi a teoria dei giochi",
+          "Limitando il personale specializzato nel settore teoria dei giochi",
+          "Aumentando le procedure burocratiche sul teoria dei giochi"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al teoria dei giochi"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Teoria dei giochi' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del teoria dei giochi",
+          "Totale disinteresse verso teoria dei giochi",
+          "Esclusiva attenzione a breve termine per il teoria dei giochi",
+          "Riduzione drastica degli investimenti nel teoria dei giochi"
+        ],
+        "corretta": "Pianificazione strategica efficace del teoria dei giochi"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Teoria dei giochi'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al teoria dei giochi",
+          "Aumentando le procedure burocratiche sul teoria dei giochi",
+          "Trascurando gli aggiornamenti tecnologici relativi a teoria dei giochi",
+          "Limitando il personale specializzato nel settore teoria dei giochi"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al teoria dei giochi"
+      }
+    ]
+  },
+  "Concorrenza monopolistica": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Concorrenza monopolistica' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del concorrenza monopolistica",
+          "Riduzione drastica degli investimenti nel concorrenza monopolistica",
+          "Esclusiva attenzione a breve termine per il concorrenza monopolistica",
+          "Totale disinteresse verso concorrenza monopolistica"
+        ],
+        "corretta": "Pianificazione strategica efficace del concorrenza monopolistica"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Concorrenza monopolistica'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di concorrenza monopolistica",
+          "Investire in formazione continua sul tema del concorrenza monopolistica",
+          "Mantenere un alto livello di attenzione verso il concorrenza monopolistica",
+          "Incorporare tecnologie innovative relative a concorrenza monopolistica"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di concorrenza monopolistica"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Concorrenza monopolistica'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore concorrenza monopolistica",
+          "Implementando tecnologie avanzate dedicate al concorrenza monopolistica",
+          "Aumentando le procedure burocratiche sul concorrenza monopolistica",
+          "Trascurando gli aggiornamenti tecnologici relativi a concorrenza monopolistica"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al concorrenza monopolistica"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Concorrenza monopolistica' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel concorrenza monopolistica",
+          "Pianificazione strategica efficace del concorrenza monopolistica",
+          "Esclusiva attenzione a breve termine per il concorrenza monopolistica",
+          "Totale disinteresse verso concorrenza monopolistica"
+        ],
+        "corretta": "Pianificazione strategica efficace del concorrenza monopolistica"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Concorrenza monopolistica' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del concorrenza monopolistica",
+          "Totale disinteresse verso concorrenza monopolistica",
+          "Riduzione drastica degli investimenti nel concorrenza monopolistica",
+          "Esclusiva attenzione a breve termine per il concorrenza monopolistica"
+        ],
+        "corretta": "Pianificazione strategica efficace del concorrenza monopolistica"
+      }
+    ]
+  },
+  "Equilibrio economico generale": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Equilibrio economico generale' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso equilibrio economico generale",
+          "Riduzione drastica degli investimenti nel equilibrio economico generale",
+          "Esclusiva attenzione a breve termine per il equilibrio economico generale",
+          "Pianificazione strategica efficace del equilibrio economico generale"
+        ],
+        "corretta": "Pianificazione strategica efficace del equilibrio economico generale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Equilibrio economico generale'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di equilibrio economico generale",
+          "Mantenere un alto livello di attenzione verso il equilibrio economico generale",
+          "Investire in formazione continua sul tema del equilibrio economico generale",
+          "Incorporare tecnologie innovative relative a equilibrio economico generale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di equilibrio economico generale"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Equilibrio economico generale'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore equilibrio economico generale",
+          "Aumentando le procedure burocratiche sul equilibrio economico generale",
+          "Trascurando gli aggiornamenti tecnologici relativi a equilibrio economico generale",
+          "Implementando tecnologie avanzate dedicate al equilibrio economico generale"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al equilibrio economico generale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Equilibrio economico generale'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di equilibrio economico generale",
+          "Incorporare tecnologie innovative relative a equilibrio economico generale",
+          "Investire in formazione continua sul tema del equilibrio economico generale",
+          "Mantenere un alto livello di attenzione verso il equilibrio economico generale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di equilibrio economico generale"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Equilibrio economico generale'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a equilibrio economico generale",
+          "Implementando tecnologie avanzate dedicate al equilibrio economico generale",
+          "Limitando il personale specializzato nel settore equilibrio economico generale",
+          "Aumentando le procedure burocratiche sul equilibrio economico generale"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al equilibrio economico generale"
+      }
+    ]
+  },
+  "Mercato del lavoro": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercato del lavoro' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel mercato del lavoro",
+          "Pianificazione strategica efficace del mercato del lavoro",
+          "Esclusiva attenzione a breve termine per il mercato del lavoro",
+          "Totale disinteresse verso mercato del lavoro"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercato del lavoro"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Mercato del lavoro'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di mercato del lavoro",
+          "Investire in formazione continua sul tema del mercato del lavoro",
+          "Mantenere un alto livello di attenzione verso il mercato del lavoro",
+          "Incorporare tecnologie innovative relative a mercato del lavoro"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di mercato del lavoro"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Mercato del lavoro'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a mercato del lavoro",
+          "Limitando il personale specializzato nel settore mercato del lavoro",
+          "Implementando tecnologie avanzate dedicate al mercato del lavoro",
+          "Aumentando le procedure burocratiche sul mercato del lavoro"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al mercato del lavoro"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Mercato del lavoro'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del mercato del lavoro",
+          "Sottovalutare l'importanza strategica di mercato del lavoro",
+          "Incorporare tecnologie innovative relative a mercato del lavoro",
+          "Mantenere un alto livello di attenzione verso il mercato del lavoro"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di mercato del lavoro"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Mercato del lavoro'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a mercato del lavoro",
+          "Investire in formazione continua sul tema del mercato del lavoro",
+          "Mantenere un alto livello di attenzione verso il mercato del lavoro",
+          "Sottovalutare l'importanza strategica di mercato del lavoro"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di mercato del lavoro"
+      }
+    ]
+  },
+  "Mercato dei capitali": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercato dei capitali' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il mercato dei capitali",
+          "Riduzione drastica degli investimenti nel mercato dei capitali",
+          "Pianificazione strategica efficace del mercato dei capitali",
+          "Totale disinteresse verso mercato dei capitali"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercato dei capitali"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Mercato dei capitali'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il mercato dei capitali",
+          "Incorporare tecnologie innovative relative a mercato dei capitali",
+          "Sottovalutare l'importanza strategica di mercato dei capitali",
+          "Investire in formazione continua sul tema del mercato dei capitali"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di mercato dei capitali"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Mercato dei capitali'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al mercato dei capitali",
+          "Trascurando gli aggiornamenti tecnologici relativi a mercato dei capitali",
+          "Limitando il personale specializzato nel settore mercato dei capitali",
+          "Aumentando le procedure burocratiche sul mercato dei capitali"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al mercato dei capitali"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercato dei capitali' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il mercato dei capitali",
+          "Riduzione drastica degli investimenti nel mercato dei capitali",
+          "Pianificazione strategica efficace del mercato dei capitali",
+          "Totale disinteresse verso mercato dei capitali"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercato dei capitali"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Mercato dei capitali' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il mercato dei capitali",
+          "Totale disinteresse verso mercato dei capitali",
+          "Riduzione drastica degli investimenti nel mercato dei capitali",
+          "Pianificazione strategica efficace del mercato dei capitali"
+        ],
+        "corretta": "Pianificazione strategica efficace del mercato dei capitali"
+      }
+    ]
+  },
+  "Fallimenti del mercato": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Fallimenti del mercato' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il fallimenti del mercato",
+          "Riduzione drastica degli investimenti nel fallimenti del mercato",
+          "Totale disinteresse verso fallimenti del mercato",
+          "Pianificazione strategica efficace del fallimenti del mercato"
+        ],
+        "corretta": "Pianificazione strategica efficace del fallimenti del mercato"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Fallimenti del mercato'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a fallimenti del mercato",
+          "Mantenere un alto livello di attenzione verso il fallimenti del mercato",
+          "Investire in formazione continua sul tema del fallimenti del mercato",
+          "Sottovalutare l'importanza strategica di fallimenti del mercato"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di fallimenti del mercato"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Fallimenti del mercato'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a fallimenti del mercato",
+          "Aumentando le procedure burocratiche sul fallimenti del mercato",
+          "Implementando tecnologie avanzate dedicate al fallimenti del mercato",
+          "Limitando il personale specializzato nel settore fallimenti del mercato"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al fallimenti del mercato"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Fallimenti del mercato' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del fallimenti del mercato",
+          "Totale disinteresse verso fallimenti del mercato",
+          "Riduzione drastica degli investimenti nel fallimenti del mercato",
+          "Esclusiva attenzione a breve termine per il fallimenti del mercato"
+        ],
+        "corretta": "Pianificazione strategica efficace del fallimenti del mercato"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Fallimenti del mercato' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso fallimenti del mercato",
+          "Pianificazione strategica efficace del fallimenti del mercato",
+          "Riduzione drastica degli investimenti nel fallimenti del mercato",
+          "Esclusiva attenzione a breve termine per il fallimenti del mercato"
+        ],
+        "corretta": "Pianificazione strategica efficace del fallimenti del mercato"
+      }
+    ]
+  },
+  "Introduzione alla macroeconomia": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Introduzione alla macroeconomia' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del introduzione alla macroeconomia",
+          "Esclusiva attenzione a breve termine per il introduzione alla macroeconomia",
+          "Riduzione drastica degli investimenti nel introduzione alla macroeconomia",
+          "Totale disinteresse verso introduzione alla macroeconomia"
+        ],
+        "corretta": "Pianificazione strategica efficace del introduzione alla macroeconomia"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Introduzione alla macroeconomia'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del introduzione alla macroeconomia",
+          "Sottovalutare l'importanza strategica di introduzione alla macroeconomia",
+          "Mantenere un alto livello di attenzione verso il introduzione alla macroeconomia",
+          "Incorporare tecnologie innovative relative a introduzione alla macroeconomia"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di introduzione alla macroeconomia"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Introduzione alla macroeconomia'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al introduzione alla macroeconomia",
+          "Aumentando le procedure burocratiche sul introduzione alla macroeconomia",
+          "Trascurando gli aggiornamenti tecnologici relativi a introduzione alla macroeconomia",
+          "Limitando il personale specializzato nel settore introduzione alla macroeconomia"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al introduzione alla macroeconomia"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Introduzione alla macroeconomia'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul introduzione alla macroeconomia",
+          "Implementando tecnologie avanzate dedicate al introduzione alla macroeconomia",
+          "Trascurando gli aggiornamenti tecnologici relativi a introduzione alla macroeconomia",
+          "Limitando il personale specializzato nel settore introduzione alla macroeconomia"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al introduzione alla macroeconomia"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Introduzione alla macroeconomia' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del introduzione alla macroeconomia",
+          "Riduzione drastica degli investimenti nel introduzione alla macroeconomia",
+          "Esclusiva attenzione a breve termine per il introduzione alla macroeconomia",
+          "Totale disinteresse verso introduzione alla macroeconomia"
+        ],
+        "corretta": "Pianificazione strategica efficace del introduzione alla macroeconomia"
+      }
+    ]
+  },
+  "Domanda e offerta aggregata": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Domanda e offerta aggregata' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il domanda e offerta aggregata",
+          "Riduzione drastica degli investimenti nel domanda e offerta aggregata",
+          "Pianificazione strategica efficace del domanda e offerta aggregata",
+          "Totale disinteresse verso domanda e offerta aggregata"
+        ],
+        "corretta": "Pianificazione strategica efficace del domanda e offerta aggregata"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Domanda e offerta aggregata'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di domanda e offerta aggregata",
+          "Investire in formazione continua sul tema del domanda e offerta aggregata",
+          "Incorporare tecnologie innovative relative a domanda e offerta aggregata",
+          "Mantenere un alto livello di attenzione verso il domanda e offerta aggregata"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di domanda e offerta aggregata"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Domanda e offerta aggregata'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a domanda e offerta aggregata",
+          "Implementando tecnologie avanzate dedicate al domanda e offerta aggregata",
+          "Limitando il personale specializzato nel settore domanda e offerta aggregata",
+          "Aumentando le procedure burocratiche sul domanda e offerta aggregata"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al domanda e offerta aggregata"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Domanda e offerta aggregata' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del domanda e offerta aggregata",
+          "Riduzione drastica degli investimenti nel domanda e offerta aggregata",
+          "Totale disinteresse verso domanda e offerta aggregata",
+          "Esclusiva attenzione a breve termine per il domanda e offerta aggregata"
+        ],
+        "corretta": "Pianificazione strategica efficace del domanda e offerta aggregata"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Domanda e offerta aggregata' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso domanda e offerta aggregata",
+          "Riduzione drastica degli investimenti nel domanda e offerta aggregata",
+          "Pianificazione strategica efficace del domanda e offerta aggregata",
+          "Esclusiva attenzione a breve termine per il domanda e offerta aggregata"
+        ],
+        "corretta": "Pianificazione strategica efficace del domanda e offerta aggregata"
+      }
+    ]
+  },
+  "Disoccupazione": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Disoccupazione' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del disoccupazione",
+          "Riduzione drastica degli investimenti nel disoccupazione",
+          "Esclusiva attenzione a breve termine per il disoccupazione",
+          "Totale disinteresse verso disoccupazione"
+        ],
+        "corretta": "Pianificazione strategica efficace del disoccupazione"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Disoccupazione'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il disoccupazione",
+          "Sottovalutare l'importanza strategica di disoccupazione",
+          "Investire in formazione continua sul tema del disoccupazione",
+          "Incorporare tecnologie innovative relative a disoccupazione"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di disoccupazione"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Disoccupazione'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore disoccupazione",
+          "Implementando tecnologie avanzate dedicate al disoccupazione",
+          "Aumentando le procedure burocratiche sul disoccupazione",
+          "Trascurando gli aggiornamenti tecnologici relativi a disoccupazione"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al disoccupazione"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Disoccupazione' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso disoccupazione",
+          "Pianificazione strategica efficace del disoccupazione",
+          "Esclusiva attenzione a breve termine per il disoccupazione",
+          "Riduzione drastica degli investimenti nel disoccupazione"
+        ],
+        "corretta": "Pianificazione strategica efficace del disoccupazione"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Disoccupazione' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del disoccupazione",
+          "Totale disinteresse verso disoccupazione",
+          "Esclusiva attenzione a breve termine per il disoccupazione",
+          "Riduzione drastica degli investimenti nel disoccupazione"
+        ],
+        "corretta": "Pianificazione strategica efficace del disoccupazione"
+      }
+    ]
+  },
+  "Inflazione": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Inflazione' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il inflazione",
+          "Totale disinteresse verso inflazione",
+          "Pianificazione strategica efficace del inflazione",
+          "Riduzione drastica degli investimenti nel inflazione"
+        ],
+        "corretta": "Pianificazione strategica efficace del inflazione"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Inflazione'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il inflazione",
+          "Incorporare tecnologie innovative relative a inflazione",
+          "Investire in formazione continua sul tema del inflazione",
+          "Sottovalutare l'importanza strategica di inflazione"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di inflazione"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Inflazione'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul inflazione",
+          "Implementando tecnologie avanzate dedicate al inflazione",
+          "Trascurando gli aggiornamenti tecnologici relativi a inflazione",
+          "Limitando il personale specializzato nel settore inflazione"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al inflazione"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Inflazione'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a inflazione",
+          "Implementando tecnologie avanzate dedicate al inflazione",
+          "Limitando il personale specializzato nel settore inflazione",
+          "Aumentando le procedure burocratiche sul inflazione"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al inflazione"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Inflazione' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel inflazione",
+          "Esclusiva attenzione a breve termine per il inflazione",
+          "Pianificazione strategica efficace del inflazione",
+          "Totale disinteresse verso inflazione"
+        ],
+        "corretta": "Pianificazione strategica efficace del inflazione"
+      }
+    ]
+  },
+  "Consumo e investimento": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Consumo e investimento' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel consumo e investimento",
+          "Esclusiva attenzione a breve termine per il consumo e investimento",
+          "Totale disinteresse verso consumo e investimento",
+          "Pianificazione strategica efficace del consumo e investimento"
+        ],
+        "corretta": "Pianificazione strategica efficace del consumo e investimento"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Consumo e investimento'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di consumo e investimento",
+          "Mantenere un alto livello di attenzione verso il consumo e investimento",
+          "Incorporare tecnologie innovative relative a consumo e investimento",
+          "Investire in formazione continua sul tema del consumo e investimento"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di consumo e investimento"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Consumo e investimento'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al consumo e investimento",
+          "Aumentando le procedure burocratiche sul consumo e investimento",
+          "Limitando il personale specializzato nel settore consumo e investimento",
+          "Trascurando gli aggiornamenti tecnologici relativi a consumo e investimento"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al consumo e investimento"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Consumo e investimento' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel consumo e investimento",
+          "Esclusiva attenzione a breve termine per il consumo e investimento",
+          "Pianificazione strategica efficace del consumo e investimento",
+          "Totale disinteresse verso consumo e investimento"
+        ],
+        "corretta": "Pianificazione strategica efficace del consumo e investimento"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Consumo e investimento'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a consumo e investimento",
+          "Limitando il personale specializzato nel settore consumo e investimento",
+          "Implementando tecnologie avanzate dedicate al consumo e investimento",
+          "Aumentando le procedure burocratiche sul consumo e investimento"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al consumo e investimento"
+      }
+    ]
+  },
+  "Modello del moltiplicatore": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Modello del moltiplicatore' nelle imprese moderne?",
+        "opzioni": [
+          "Riduzione drastica degli investimenti nel modello del moltiplicatore",
+          "Esclusiva attenzione a breve termine per il modello del moltiplicatore",
+          "Pianificazione strategica efficace del modello del moltiplicatore",
+          "Totale disinteresse verso modello del moltiplicatore"
+        ],
+        "corretta": "Pianificazione strategica efficace del modello del moltiplicatore"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Modello del moltiplicatore'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di modello del moltiplicatore",
+          "Incorporare tecnologie innovative relative a modello del moltiplicatore",
+          "Investire in formazione continua sul tema del modello del moltiplicatore",
+          "Mantenere un alto livello di attenzione verso il modello del moltiplicatore"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di modello del moltiplicatore"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Modello del moltiplicatore'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul modello del moltiplicatore",
+          "Implementando tecnologie avanzate dedicate al modello del moltiplicatore",
+          "Limitando il personale specializzato nel settore modello del moltiplicatore",
+          "Trascurando gli aggiornamenti tecnologici relativi a modello del moltiplicatore"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al modello del moltiplicatore"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Modello del moltiplicatore'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore modello del moltiplicatore",
+          "Trascurando gli aggiornamenti tecnologici relativi a modello del moltiplicatore",
+          "Aumentando le procedure burocratiche sul modello del moltiplicatore",
+          "Implementando tecnologie avanzate dedicate al modello del moltiplicatore"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al modello del moltiplicatore"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Modello del moltiplicatore' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del modello del moltiplicatore",
+          "Esclusiva attenzione a breve termine per il modello del moltiplicatore",
+          "Riduzione drastica degli investimenti nel modello del moltiplicatore",
+          "Totale disinteresse verso modello del moltiplicatore"
+        ],
+        "corretta": "Pianificazione strategica efficace del modello del moltiplicatore"
+      }
+    ]
+  },
+  "Sistema finanziario e moneta": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Sistema finanziario e moneta' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del sistema finanziario e moneta",
+          "Riduzione drastica degli investimenti nel sistema finanziario e moneta",
+          "Totale disinteresse verso sistema finanziario e moneta",
+          "Esclusiva attenzione a breve termine per il sistema finanziario e moneta"
+        ],
+        "corretta": "Pianificazione strategica efficace del sistema finanziario e moneta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Sistema finanziario e moneta'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a sistema finanziario e moneta",
+          "Sottovalutare l'importanza strategica di sistema finanziario e moneta",
+          "Investire in formazione continua sul tema del sistema finanziario e moneta",
+          "Mantenere un alto livello di attenzione verso il sistema finanziario e moneta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di sistema finanziario e moneta"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Sistema finanziario e moneta'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al sistema finanziario e moneta",
+          "Limitando il personale specializzato nel settore sistema finanziario e moneta",
+          "Aumentando le procedure burocratiche sul sistema finanziario e moneta",
+          "Trascurando gli aggiornamenti tecnologici relativi a sistema finanziario e moneta"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al sistema finanziario e moneta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Sistema finanziario e moneta'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a sistema finanziario e moneta",
+          "Mantenere un alto livello di attenzione verso il sistema finanziario e moneta",
+          "Sottovalutare l'importanza strategica di sistema finanziario e moneta",
+          "Investire in formazione continua sul tema del sistema finanziario e moneta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di sistema finanziario e moneta"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Sistema finanziario e moneta'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al sistema finanziario e moneta",
+          "Limitando il personale specializzato nel settore sistema finanziario e moneta",
+          "Aumentando le procedure burocratiche sul sistema finanziario e moneta",
+          "Trascurando gli aggiornamenti tecnologici relativi a sistema finanziario e moneta"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al sistema finanziario e moneta"
+      }
+    ]
+  },
+  "Banca centrale e politica monetaria": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Banca centrale e politica monetaria' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del banca centrale e politica monetaria",
+          "Totale disinteresse verso banca centrale e politica monetaria",
+          "Riduzione drastica degli investimenti nel banca centrale e politica monetaria",
+          "Esclusiva attenzione a breve termine per il banca centrale e politica monetaria"
+        ],
+        "corretta": "Pianificazione strategica efficace del banca centrale e politica monetaria"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Banca centrale e politica monetaria'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di banca centrale e politica monetaria",
+          "Mantenere un alto livello di attenzione verso il banca centrale e politica monetaria",
+          "Investire in formazione continua sul tema del banca centrale e politica monetaria",
+          "Incorporare tecnologie innovative relative a banca centrale e politica monetaria"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di banca centrale e politica monetaria"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Banca centrale e politica monetaria'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al banca centrale e politica monetaria",
+          "Limitando il personale specializzato nel settore banca centrale e politica monetaria",
+          "Trascurando gli aggiornamenti tecnologici relativi a banca centrale e politica monetaria",
+          "Aumentando le procedure burocratiche sul banca centrale e politica monetaria"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al banca centrale e politica monetaria"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Banca centrale e politica monetaria' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il banca centrale e politica monetaria",
+          "Pianificazione strategica efficace del banca centrale e politica monetaria",
+          "Totale disinteresse verso banca centrale e politica monetaria",
+          "Riduzione drastica degli investimenti nel banca centrale e politica monetaria"
+        ],
+        "corretta": "Pianificazione strategica efficace del banca centrale e politica monetaria"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Banca centrale e politica monetaria'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del banca centrale e politica monetaria",
+          "Sottovalutare l'importanza strategica di banca centrale e politica monetaria",
+          "Mantenere un alto livello di attenzione verso il banca centrale e politica monetaria",
+          "Incorporare tecnologie innovative relative a banca centrale e politica monetaria"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di banca centrale e politica monetaria"
+      }
+    ]
+  },
+  "Equilibrio IS-LM": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Cosa descrive l'equilibrio IS-LM in macroeconomia?",
+        "opzioni": [
+          "L'interazione tra mercato dei beni e mercato monetario",
+          "La relazione tra inflazione e disoccupazione",
+          "L'equilibrio tra domanda e offerta di lavoro",
+          "Il bilanciamento dei pagamenti internazionali"
+        ],
+        "corretta": "L'interazione tra mercato dei beni e mercato monetario"
+      },
+      {
+        "domanda": "Cosa accade nel modello IS-LM quando aumenta la spesa pubblica?",
+        "opzioni": [
+          "La curva LM si sposta verso sinistra",
+          "Entrambe le curve restano invariate",
+          "La curva IS si sposta verso sinistra",
+          "La curva IS si sposta verso destra"
+        ],
+        "corretta": "La curva IS si sposta verso destra"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Equilibrio IS-LM'?",
+        "opzioni": [
+          "Trascurando gli aggiornamenti tecnologici relativi a equilibrio is-lm",
+          "Implementando tecnologie avanzate dedicate al equilibrio is-lm",
+          "Limitando il personale specializzato nel settore equilibrio is-lm",
+          "Aumentando le procedure burocratiche sul equilibrio is-lm"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al equilibrio is-lm"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Equilibrio IS-LM' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del equilibrio is-lm",
+          "Esclusiva attenzione a breve termine per il equilibrio is-lm",
+          "Totale disinteresse verso equilibrio is-lm",
+          "Riduzione drastica degli investimenti nel equilibrio is-lm"
+        ],
+        "corretta": "Pianificazione strategica efficace del equilibrio is-lm"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Equilibrio IS-LM'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il equilibrio is-lm",
+          "Incorporare tecnologie innovative relative a equilibrio is-lm",
+          "Sottovalutare l'importanza strategica di equilibrio is-lm",
+          "Investire in formazione continua sul tema del equilibrio is-lm"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di equilibrio is-lm"
+      }
+    ]
+  },
+  "Politiche economiche IS-LM": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Politiche economiche IS-LM' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del politiche economiche is-lm",
+          "Riduzione drastica degli investimenti nel politiche economiche is-lm",
+          "Totale disinteresse verso politiche economiche is-lm",
+          "Esclusiva attenzione a breve termine per il politiche economiche is-lm"
+        ],
+        "corretta": "Pianificazione strategica efficace del politiche economiche is-lm"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Politiche economiche IS-LM'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a politiche economiche is-lm",
+          "Mantenere un alto livello di attenzione verso il politiche economiche is-lm",
+          "Sottovalutare l'importanza strategica di politiche economiche is-lm",
+          "Investire in formazione continua sul tema del politiche economiche is-lm"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di politiche economiche is-lm"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Politiche economiche IS-LM'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore politiche economiche is-lm",
+          "Aumentando le procedure burocratiche sul politiche economiche is-lm",
+          "Trascurando gli aggiornamenti tecnologici relativi a politiche economiche is-lm",
+          "Implementando tecnologie avanzate dedicate al politiche economiche is-lm"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al politiche economiche is-lm"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Politiche economiche IS-LM' nelle imprese moderne?",
+        "opzioni": [
+          "Esclusiva attenzione a breve termine per il politiche economiche is-lm",
+          "Riduzione drastica degli investimenti nel politiche economiche is-lm",
+          "Totale disinteresse verso politiche economiche is-lm",
+          "Pianificazione strategica efficace del politiche economiche is-lm"
+        ],
+        "corretta": "Pianificazione strategica efficace del politiche economiche is-lm"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Politiche economiche IS-LM' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso politiche economiche is-lm",
+          "Riduzione drastica degli investimenti nel politiche economiche is-lm",
+          "Esclusiva attenzione a breve termine per il politiche economiche is-lm",
+          "Pianificazione strategica efficace del politiche economiche is-lm"
+        ],
+        "corretta": "Pianificazione strategica efficace del politiche economiche is-lm"
+      }
+    ]
+  },
+  "Bilancia dei pagamenti e tasso di cambio": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Bilancia dei pagamenti e tasso di cambio' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso bilancia dei pagamenti e tasso di cambio",
+          "Pianificazione strategica efficace del bilancia dei pagamenti e tasso di cambio",
+          "Riduzione drastica degli investimenti nel bilancia dei pagamenti e tasso di cambio",
+          "Esclusiva attenzione a breve termine per il bilancia dei pagamenti e tasso di cambio"
+        ],
+        "corretta": "Pianificazione strategica efficace del bilancia dei pagamenti e tasso di cambio"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Bilancia dei pagamenti e tasso di cambio'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il bilancia dei pagamenti e tasso di cambio",
+          "Incorporare tecnologie innovative relative a bilancia dei pagamenti e tasso di cambio",
+          "Sottovalutare l'importanza strategica di bilancia dei pagamenti e tasso di cambio",
+          "Investire in formazione continua sul tema del bilancia dei pagamenti e tasso di cambio"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di bilancia dei pagamenti e tasso di cambio"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Bilancia dei pagamenti e tasso di cambio'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul bilancia dei pagamenti e tasso di cambio",
+          "Implementando tecnologie avanzate dedicate al bilancia dei pagamenti e tasso di cambio",
+          "Limitando il personale specializzato nel settore bilancia dei pagamenti e tasso di cambio",
+          "Trascurando gli aggiornamenti tecnologici relativi a bilancia dei pagamenti e tasso di cambio"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al bilancia dei pagamenti e tasso di cambio"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Bilancia dei pagamenti e tasso di cambio'?",
+        "opzioni": [
+          "Aumentando le procedure burocratiche sul bilancia dei pagamenti e tasso di cambio",
+          "Limitando il personale specializzato nel settore bilancia dei pagamenti e tasso di cambio",
+          "Implementando tecnologie avanzate dedicate al bilancia dei pagamenti e tasso di cambio",
+          "Trascurando gli aggiornamenti tecnologici relativi a bilancia dei pagamenti e tasso di cambio"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al bilancia dei pagamenti e tasso di cambio"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Bilancia dei pagamenti e tasso di cambio' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del bilancia dei pagamenti e tasso di cambio",
+          "Riduzione drastica degli investimenti nel bilancia dei pagamenti e tasso di cambio",
+          "Esclusiva attenzione a breve termine per il bilancia dei pagamenti e tasso di cambio",
+          "Totale disinteresse verso bilancia dei pagamenti e tasso di cambio"
+        ],
+        "corretta": "Pianificazione strategica efficace del bilancia dei pagamenti e tasso di cambio"
+      }
+    ]
+  },
+  "Commercio internazionale": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Commercio internazionale' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso commercio internazionale",
+          "Pianificazione strategica efficace del commercio internazionale",
+          "Esclusiva attenzione a breve termine per il commercio internazionale",
+          "Riduzione drastica degli investimenti nel commercio internazionale"
+        ],
+        "corretta": "Pianificazione strategica efficace del commercio internazionale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Commercio internazionale'?",
+        "opzioni": [
+          "Investire in formazione continua sul tema del commercio internazionale",
+          "Mantenere un alto livello di attenzione verso il commercio internazionale",
+          "Sottovalutare l'importanza strategica di commercio internazionale",
+          "Incorporare tecnologie innovative relative a commercio internazionale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di commercio internazionale"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Commercio internazionale'?",
+        "opzioni": [
+          "Limitando il personale specializzato nel settore commercio internazionale",
+          "Implementando tecnologie avanzate dedicate al commercio internazionale",
+          "Aumentando le procedure burocratiche sul commercio internazionale",
+          "Trascurando gli aggiornamenti tecnologici relativi a commercio internazionale"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al commercio internazionale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Commercio internazionale'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a commercio internazionale",
+          "Investire in formazione continua sul tema del commercio internazionale",
+          "Sottovalutare l'importanza strategica di commercio internazionale",
+          "Mantenere un alto livello di attenzione verso il commercio internazionale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di commercio internazionale"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Commercio internazionale'?",
+        "opzioni": [
+          "Incorporare tecnologie innovative relative a commercio internazionale",
+          "Sottovalutare l'importanza strategica di commercio internazionale",
+          "Mantenere un alto livello di attenzione verso il commercio internazionale",
+          "Investire in formazione continua sul tema del commercio internazionale"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di commercio internazionale"
+      }
+    ]
+  },
+  "Economia aperta": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Economia aperta' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del economia aperta",
+          "Totale disinteresse verso economia aperta",
+          "Riduzione drastica degli investimenti nel economia aperta",
+          "Esclusiva attenzione a breve termine per il economia aperta"
+        ],
+        "corretta": "Pianificazione strategica efficace del economia aperta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Economia aperta'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di economia aperta",
+          "Investire in formazione continua sul tema del economia aperta",
+          "Mantenere un alto livello di attenzione verso il economia aperta",
+          "Incorporare tecnologie innovative relative a economia aperta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di economia aperta"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Economia aperta'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al economia aperta",
+          "Limitando il personale specializzato nel settore economia aperta",
+          "Trascurando gli aggiornamenti tecnologici relativi a economia aperta",
+          "Aumentando le procedure burocratiche sul economia aperta"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al economia aperta"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Economia aperta' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del economia aperta",
+          "Riduzione drastica degli investimenti nel economia aperta",
+          "Esclusiva attenzione a breve termine per il economia aperta",
+          "Totale disinteresse verso economia aperta"
+        ],
+        "corretta": "Pianificazione strategica efficace del economia aperta"
+      },
+      {
+        "domanda": "Quale attività è generalmente associata a 'Economia aperta' nelle imprese moderne?",
+        "opzioni": [
+          "Pianificazione strategica efficace del economia aperta",
+          "Totale disinteresse verso economia aperta",
+          "Riduzione drastica degli investimenti nel economia aperta",
+          "Esclusiva attenzione a breve termine per il economia aperta"
+        ],
+        "corretta": "Pianificazione strategica efficace del economia aperta"
+      }
+    ]
+  },
+  "Politica macroeconomica in economia aperta": {
+    "categoria_file": "economia_politica",
+    "domande": [
+      {
+        "domanda": "Quale attività è generalmente associata a 'Politica macroeconomica in economia aperta' nelle imprese moderne?",
+        "opzioni": [
+          "Totale disinteresse verso politica macroeconomica in economia aperta",
+          "Esclusiva attenzione a breve termine per il politica macroeconomica in economia aperta",
+          "Riduzione drastica degli investimenti nel politica macroeconomica in economia aperta",
+          "Pianificazione strategica efficace del politica macroeconomica in economia aperta"
+        ],
+        "corretta": "Pianificazione strategica efficace del politica macroeconomica in economia aperta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Politica macroeconomica in economia aperta'?",
+        "opzioni": [
+          "Sottovalutare l'importanza strategica di politica macroeconomica in economia aperta",
+          "Investire in formazione continua sul tema del politica macroeconomica in economia aperta",
+          "Incorporare tecnologie innovative relative a politica macroeconomica in economia aperta",
+          "Mantenere un alto livello di attenzione verso il politica macroeconomica in economia aperta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di politica macroeconomica in economia aperta"
+      },
+      {
+        "domanda": "In che modo un'azienda può massimizzare l'efficienza nella gestione del 'Politica macroeconomica in economia aperta'?",
+        "opzioni": [
+          "Implementando tecnologie avanzate dedicate al politica macroeconomica in economia aperta",
+          "Trascurando gli aggiornamenti tecnologici relativi a politica macroeconomica in economia aperta",
+          "Limitando il personale specializzato nel settore politica macroeconomica in economia aperta",
+          "Aumentando le procedure burocratiche sul politica macroeconomica in economia aperta"
+        ],
+        "corretta": "Implementando tecnologie avanzate dedicate al politica macroeconomica in economia aperta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Politica macroeconomica in economia aperta'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il politica macroeconomica in economia aperta",
+          "Incorporare tecnologie innovative relative a politica macroeconomica in economia aperta",
+          "Investire in formazione continua sul tema del politica macroeconomica in economia aperta",
+          "Sottovalutare l'importanza strategica di politica macroeconomica in economia aperta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di politica macroeconomica in economia aperta"
+      },
+      {
+        "domanda": "Secondo recenti studi, cosa dovrebbe evitare un'impresa relativamente a 'Politica macroeconomica in economia aperta'?",
+        "opzioni": [
+          "Mantenere un alto livello di attenzione verso il politica macroeconomica in economia aperta",
+          "Incorporare tecnologie innovative relative a politica macroeconomica in economia aperta",
+          "Sottovalutare l'importanza strategica di politica macroeconomica in economia aperta",
+          "Investire in formazione continua sul tema del politica macroeconomica in economia aperta"
+        ],
+        "corretta": "Sottovalutare l'importanza strategica di politica macroeconomica in economia aperta"
+      }
+    ]
+  }
+}
