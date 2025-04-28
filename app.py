@@ -9,9 +9,6 @@ import os
 # Configurazione iniziale della pagina
 st.set_page_config(page_title="LLMentor", layout="wide")
 
-# Crea la cartella 'data' se non esiste
-os.makedirs("data", exist_ok=True)
-
 # Sidebar di navigazione
 st.sidebar.title("LLMentor")
 pagina = st.sidebar.radio("Vai a:", ["Home", "Carica File", "Genera Quiz", "Riassunto/Spiegazione", "Info Progetto"])
