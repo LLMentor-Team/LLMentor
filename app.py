@@ -37,7 +37,7 @@ elif pagina == "Carica File":
         
         if not df.empty:
             st.session_state["syllabus_df"] = df
-            st.session_state["file_name"] = uploaded_file.name  # ✅ AGGIUNTO QUI
+            st.session_state["file_name"] = uploaded_file.name 
             st.success(f"File **{uploaded_file.name}** caricato e letto con successo!")
             st.dataframe(df)  # Mostra una preview dei dati caricati
         else:
