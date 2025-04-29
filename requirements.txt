@@ -1,6 +1,9 @@
 streamlit
-pandas
-numpy
 openai
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pandas
+plotly
 reportlab
-scikit-learn
